@@ -1,0 +1,10 @@
+hr{
+    margin: 0;
+}
+
+.rodape{
+    font-family: var(--fonte-principal);
+    padding: 1em;
+    font-size: 16px;
+    font-weight: 400;
+}
